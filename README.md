@@ -1,6 +1,8 @@
 # LinkedIn-Scraper
 
-This script will run a search for a given company on LinkedIn and will return a URL for that company. 
+linkedin_company_url_maker.py - This script was used as part of an exercise for LinkedIn webscraping and it creates a .txt file of LinkedIn Company URLS
+
+
 
 Please note that this requires previous download of selenium chromedriver and making a configuration file (config.txt) which contains LinkedIn username on line 1, and password on line 2.
 
